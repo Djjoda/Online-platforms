@@ -12,7 +12,7 @@ https://techcrop.web.app/
 
 <img src="techcrop.png" alt=""/>
 
-## PayFast. 
+## PayFast 
 Comprehensive platform for businesses and delivery companies. Contains multiple profiles such as: Business Administrator, Distributor, Customer, Zone Administrator
 
 Login with
