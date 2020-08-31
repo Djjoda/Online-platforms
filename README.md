@@ -10,7 +10,7 @@ password: 123456
 
 https://techcrop.web.app/
 
-
+<img src="techcrop.png" alt=""/>
 
 ## PayFast. 
 Comprehensive platform for businesses and delivery companies. Contains multiple profiles such as: Business Administrator, Distributor, Customer, Zone Administrator
@@ -22,11 +22,15 @@ Login with
 
 https://payfast-86d1e.web.app/shop/0984583983
 
+<img src="payfast_store.png" alt=""/>
+
 - Admin
 user: davidlojar1@gmail.com
 password: 654321
 
 https://payfast-tienda.web.app/
+
+<img src="payfast_admin.png" alt=""/>
 
 ## SciencePayload, Genesis 1:11 Dama Research Limit. 
 Simulator for planning space exploration missions aimed at the detection of organic molecules.
@@ -37,4 +41,5 @@ password: 123456
 
 https://genesis-de7d3.web.app/
 
+<img src="genesis.png" alt=""/>
 
